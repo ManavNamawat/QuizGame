@@ -1,6 +1,6 @@
 ```
 QuizGame:
-This is a simple Java console application that fetches multiple-choice questions from the Open Trivia DB API and aloows user to take a quiz.
+This is a simple Java console application that fetches multiple-choice questions from the Open Trivia DB API and allows user to take a quiz.
 
 Files:
 QuizGame.java — main Java source file for the quiz game.
