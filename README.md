@@ -18,7 +18,7 @@ Run the program.
 
 API Used:
 Open Trivia DB
-Example: https://opentdb.com/api.php?amount=1&type=multiple
+Example:https://opentdb.com/api.php?amount=5
 
 Features:
 Uses HTTP URLConnection to fetch questions from an online trivia API.
