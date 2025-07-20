@@ -21,6 +21,6 @@ Open Trivia DB
 Example:https://opentdb.com/api.php?amount=1&type=multiple
 
 Features:
-Uses HTTP URLConnection to fetch questions from an online trivia API.
+Uses HTTP URLConnection to fetch questions. from an online trivia API.
 Displays 4 options for each question.
 Give result in form of Correct and Incorrect.
