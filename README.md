@@ -1,5 +1,6 @@
 
 # Quiz Game
+This is a simple Multiple choice Quiz Game written in java which fetches general knowledge questions from an open API and the let user play quiz in the console.
 
 ## 📋 **Technologies Used**
 - **Java Development Kit (JDK)** 8 or higher
